@@ -9,3 +9,4 @@ class Song
     @artist == nil ? nil : self.artist.name
   end
 end
+test
